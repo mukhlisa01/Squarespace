@@ -1,0 +1,406 @@
+/* ******** */
+@media (max-width:1200px) {
+    .container{
+        max-width: 991px;
+    }
+    
+    .header .navbar-brand{
+        margin-right: 100px;
+    }
+    
+    .all .tool-card .fee{
+        margin: 12px 0 30px;
+    }
+    
+    .all .tool-card .done {
+        margin: 8px 0;
+    }
+    
+    .imagine{
+        padding: 90px 0;
+    }
+    
+    .engage-content {
+        margin-top: 80px;
+    }
+    
+    .kanda .school-info .info-txt {
+        font-size: 23px;
+    }
+    
+    .kanda .school-link {
+        margin-top: 35px;
+    }
+    
+    .footer {
+        padding: 80px 0 50px;
+    }
+    
+    .header .navbar-nav .nav-item .nav-link{
+        font-size: 13px;
+        padding: 10px 20px;
+    }
+    
+    .main{
+        padding: 80px 0 100px;
+    }
+    
+    .main-link{
+        font-size: 14px;
+    }
+    
+    .main-title {
+        font-size: 60px;
+        line-height: 65px;
+    }
+    
+    .main-text {
+        margin: 15px 0 30px;
+        font-size: 18px;
+    }
+    
+    .btn{
+        padding: 10px 20px;
+    }
+    
+    .btn a{
+        font-size: 13px;
+    }
+    
+    .all .tools-wrapper {
+        margin-top: 50px;
+    }
+    
+    .all .tools-wrapper {
+        margin-top: 40px;
+    }
+    
+    .all .tools-wrapper .row{
+        justify-content: center;
+    }
+    
+    .all .tools-wrapper .row .tool{
+        margin-bottom: 13px;
+    }
+    
+    .padding {
+        padding: 60px 0;
+    }
+    
+    .site-title .title {
+        font-size: 45px;
+        line-height: 50px;
+    }
+    
+    .site-title .subtitle {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    
+    .engage .site-title .subtitle{
+        max-width: 450px;
+        margin: 0 auto;
+    }
+    
+    .start .site-title .link {
+        margin: 5px 0;
+    }
+    
+    .start-steps li {
+        list-style-type: decimal-leading-zero;
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+}
+
+/* ********** */
+@media (max-width:800px) {
+    .main {
+        padding: 50px 0 90px;
+    }
+    
+    .main-title {
+        font-size: 51px;
+        line-height: 47px;
+    }
+    
+    .site-title .title {
+        font-size: 37px;
+        line-height: 40px;
+    }
+    
+    .site-title .subtitle{
+        margin: 0 0 10px;
+    }
+    
+    .site-title .link{
+        font-size: 16px;
+    }
+    
+    /* .all .tools-wrapper {
+        margin-top: 40px;
+    }
+    
+    .all .tools-wrapper .row{
+        justify-content: center;
+    } */
+    
+    .all .tool-card .amount{
+        margin-bottom: 40px;
+    }
+    
+    /* .all .tools-wrapper .row .tool{
+        margin-bottom: 13px;
+    } */
+    
+    .all .tool-card .fee{
+        justify-content: center;
+        margin: 12px 0 15px;
+    }
+    
+    .all .tool-card .fee-type{
+        padding: 9px;
+        font-size: 15px;
+    }
+    
+    .all .tool-title {
+        font-size: 25px;
+        line-height: 27px;
+        margin-top: 20px;
+    }
+    
+    .engage-content {
+        margin-top: 70px;
+    }
+    
+    .engage-content .content-title {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    
+    .engage-content .content-subt {
+        font-size: 18px;
+        line-height: 23px;
+        margin-top: 15px;
+    }
+    
+    .kanda .school-info .info-txt {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    
+    .kanda .school-link {
+        margin-top: 25px;
+    }
+    
+    .kanda .school-link p {
+        font-size: 17px;
+    }
+    
+    .point .site-title{
+        margin-bottom: 50px;
+    }
+    
+    .point .template .tmp-img img {
+        height: 250px;
+    }
+    
+    .point .template .tmp-link{
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    
+    .price-title {
+        margin-bottom: 40px;
+    }
+    
+    .price-title .prc-subt {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    
+    .price .include-title {
+        font-size: 25px;
+        margin: 30px 0 20px;
+    }
+    
+    .price .included-list li {
+        font-size: 16px;
+        line-height: 18px;
+        padding: 7px 0;
+    }
+    
+    .start-steps li{
+        margin: 20px 25px;
+    }
+    
+    .gen-title {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    
+    .questions {
+        padding: 45px 10px 40px;
+    }
+    
+    .questions .accordion-button {
+        padding: 20px 0;
+        font-size: 18px;
+    }
+    
+    .support .site-title .link {
+        padding-bottom: 6px;
+    }
+    
+    .footer {
+        padding: 50px 0;
+    }
+    
+    .footer-logo img {
+        margin-bottom: 20px;
+    }
+    
+    .footer-logo select{
+        padding: 10px;
+    }
+    
+    .footer-menu .menu-title{
+        margin-bottom: 10px;
+    }
+    
+    .footer-menu .menu-list a {
+        font-size: 13px;
+    }
+    
+    .footer-menu{
+        margin-bottom: 13px;
+    }
+
+}
+
+
+/* ************** */
+@media (max-width:576px) {
+    .main-title {
+        font-size: 42px;
+        line-height: 42px;
+        margin: 10px 0;
+    }
+    
+    .main-text {
+        margin: 0 0 10px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    
+    .btn {
+        padding: 7px 10px;
+    }
+    
+    .all {
+        padding: 35px 0 25px;
+    }
+    
+    .all .tools-wrapper .row .tool {
+        margin-bottom: 30px;
+    }
+    
+    .all .tool-title {
+        font-size: 21px;
+        line-height: 14px;
+    }
+    
+    .all .tool-subt {
+        font-size: 15px;
+        line-height: 18px;
+    }
+    
+    .imagine {
+        padding: 70px 0;
+    }
+    
+    .padding {
+        padding: 40px 0;
+    }
+    
+    .site-title .title {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    
+    .site-title .subtitle {
+        font-size: 15px;
+        line-height: 19px;
+    }
+    
+    .engage-content {
+        margin-top: 55px;
+    }
+    
+    .engage-content .content{
+        margin: 10px;
+    }
+    
+    .engage-content .content-title {
+        font-size: 27px;
+    }
+    
+    .engage-content .content-subt {
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 0px;
+    }
+    
+    .kanda .school-link a{
+        font-size: 15px;
+    }
+
+    .start-steps li {
+        font-size: 15px;
+        margin-bottom: 12px;
+    }
+    
+    .price-title {
+        margin-bottom: 20px;
+    }
+    
+    .price .table>:not(:last-child)>:last-child>*{
+       padding-bottom: 10px !important;
+    }
+    
+    .questions-title {
+        margin-bottom: 30px;
+    }
+    
+    .questions .accordion-button {
+        padding: 17px 0;
+        font-size: 15px;
+    }
+    
+    .questions .accordion-button::after {
+        font-size: 30px;
+    }
+    
+    .site-title .link {
+        font-size: 13px;
+    }
+    
+    .gen-title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    
+    .footer {
+        padding: 40px 0;
+    }
+    
+    .footer-menu .menu-title {
+        margin-bottom: 7px;
+    }
+    
+    .footer-menu .menu-list a{
+        text-transform: none;
+    }
+
+}
